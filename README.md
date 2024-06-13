@@ -11,8 +11,8 @@ Welcome to the Apollo Hospitals web application, developed as part of the Future
 Apollo Hospitals is a comprehensive healthcare website designed to provide information about hospital services, medical specialties, and patient resources. It serves as a central platform for patients, visitors, and healthcare professionals.
 
 **Azure Technologies Used:**
-- Azure Static Web Apps for hosting and deployment
-- Azure Health Bot for personalized health assistance
+- **Azure Static Web Apps** for hosting and deployment
+- **Azure Health Bot** for personalized health assistance
 
 **Features and Functionalities:**
 - User-friendly navigation
@@ -22,6 +22,7 @@ Apollo Hospitals is a comprehensive healthcare website designed to provide infor
 - Specialized health packages and treatments
 - Emergency services information and contacts
 - Virtual tour of hospital facilities
+- Integration with Azure Health Bot for personalized health assistance
 - Responsive design for optimal viewing across devices
 
 **Screenshots:**
