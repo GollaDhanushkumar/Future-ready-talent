@@ -25,7 +25,8 @@ Apollo Hospitals is a comprehensive healthcare website designed to provide infor
 - Responsive design for optimal viewing across devices
 
 **Screenshots:**
-![image](https://github.com/GollaDhanushkumar/Future-ready-talent/assets/163522936/c0fa5b31-dc20-4c42-96e8-eb04eeaa67ce)
+![project](https://github.com/GollaDhanushkumar/Future-ready-talent/assets/163522936/dd989910-5147-4554-a16f-8b8f404bc745)
+
 
 **Tech Stack:**
 - Azure (Hosting)
