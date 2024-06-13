@@ -1,4 +1,4 @@
-# Apollo Hospitals Web Application
+# 🏥 Apollo Hospitals Web Application 🩺
 
 Welcome to the Apollo Hospitals web application, developed as part of the Future Ready Talent Internship program.
 
