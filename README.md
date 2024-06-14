@@ -28,7 +28,7 @@ Welcome to the Apollo Hospitals web application, developed as part of the Future
 
 
 **Tech Stack:**
-- Azure (Hosting)
+- Azure(Hosting)
 - HTML
 - CSS
 - Bootstrap 5
